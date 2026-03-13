@@ -1,35 +1,64 @@
-## 🛠️ My Skills
+<div align="center">
 
+# Raj Kaneriya
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://dart.dev/" target="_blank"> 
-     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  </a>
-	 &emsp;
-   <a href="https://www.aws.com" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  </a>
-</p>
+**Software Developer**  
+Python · Java · C++ · Backend System 
 
+</div>
 
+---
 
+### About
 
+I'm a software developer focused on building reliable backend systems and exploring the intersection of data, ML, and engineering. I care about writing clean, purposeful code and learning something new with every project.
 
+---
 
+### Tech Stack
+
+**Languages**  
+`Python` `Java` `C++`
+
+**Domain**  
+`Backend Development`
+
+**Tools & Ecosystem**  
+`Spring boot` `Fast API` `Flask` `Will Update new in few weeks`
+
+---
+
+### Currently
+
+- 🔨 Building projects that bridge backend logic and ML pipelines
+- 📖 Deepening expertise in system design and model deployment
+- 🌱 Exploring MLOps and scalable data workflows
+
+---
+
+### Projects
+
+> *A few things I've built — see pinned repositories below.*
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| Vector DB | Currently i am learning internals of vector database and build my own small one and will try to integrate into my other side projects| C++, Java|
+| Will Update | Check Pined Project for more | |
+
+---
+
+### Connect
+
+<div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Raj0408-181717?style=flat-square&logo=github)](https://github.com/Raj0408)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rajkaneriya0408)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail)](mailto:rajkaneriya0408@email.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to opportunities · Let's build something meaningful</sub>
+</div>
